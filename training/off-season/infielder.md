@@ -12,11 +12,11 @@
 | Day | Training | Duration |
 | :--- | :--- | :--- |
 | **Monday** | Gym A – Strength and Legs | 60 min |
-| **Tuesday** | Field A – Throwing and Agility (pitching training) | 45 min |
-| **Wednesday** | Gym B – Upper Body and Arm Care | 60 min |
-| **Thursday** | Recovery and Mobility | 20 min |
-| **Friday** | Gym C – Explosive Strength | 55 min |
-| **Saturday** | Field B – Throwing, Batting, and Speed | 45–60 min |
+| **Tuesday** | Gym B – Upper Body, Arm Care, and Throwing Power | 60–65 min |
+| **Wednesday** | Recovery and Mobility | 20 min |
+| **Thursday** | Field A – Pitching Training | 60 min |
+| **Friday** | Gym C – Lower-Body Explosiveness | 40–45 min |
+| **Saturday** | Field B – Batting, Speed, and Defence | 90 min |
 | **Sunday** | Rest | — |
 
 ---
@@ -27,25 +27,22 @@
 * **Squats:** 3 × 8
 * **Romanian Deadlift:** 3 × 8
 * **Bulgarian Split Squat:** 3 × 8
-* **Dumbbell Bench Press:** 3 × 10
-* **Chest-Supported Row:** 3 × 10
 * **Pallof Press:** 3 × 12
 
-### Wednesday – Upper Body and Arm Health
+### Tuesday – Upper Body, Arm Health, and Throwing Power
+* **Rotational Medicine-Ball Throws:** 3 × 5 (each side)
 * **Pull-ups or Lat Pulldown:** 3 × 8–10
-* **Incline Dumbbell Press:** 3 × 10
-* **Seated Cable Row:** 3 × 10
+* **Dumbbell Bench Press:** 3 × 10
+* **Chest-Supported Row:** 3 × 10
 * **Landmine Press:** 3 × 8
 * **Face Pulls:** 2 × 15
 * **External Rotations:** 2 × 15
 * **Serratus Wall Slides:** 2 × 12
 
-### Friday – Explosiveness
+### Friday – Lower-Body Explosiveness
 * **Box Jumps:** 3 × 4
 * **Trap-Bar Deadlift:** 3 × 5
-* **Rotational Medicine-Ball Throws:** 3 × 5 (each side)
 * **Step-Ups:** 3 × 8
-* **Single-Arm Cable Row:** 3 × 10
 * **Lateral Lunges:** 2 × 8
 * **Side Plank:** 3 × 30 sec
 
@@ -55,19 +52,19 @@
 
 ## 3. Baseball Field Sessions
 
-### Tuesday – Throwing and Defence
+### Thursday – Pitching Training
 * **Warm-up:** 10–15 minutes
-* **Progressive Throwing**
-* **10 Controlled Fielding-Position Throws**
-* **Lateral Shuffles:** 3 × 10 m
-* **First-Step Sprints:** 4 × 5 m
-* **Ground-Ball Practice:** 10–15 minutes
+* **Progressive Pitching Warm-up and Throwing**
 
-### Saturday – Power and Hitting
+### Saturday – Power, Hitting, and Defence
 * **Rotational Medicine-Ball Throws:** 3 × 5 (each side)
 * **Short Sprints:** 5 × 10 m
 * **Lateral Bounds:** 3 × 4 (each side)
 * **Batting Practice:** 15–25 swings
+* **10 Controlled Fielding-Position Throws**
+* **Lateral Shuffles:** 3 × 10 m
+* **First-Step Sprints:** 4 × 5 m
+* **Ground-Ball Practice:** 10–15 minutes
 * **Fielding and Reaction Drills:** 10–15 minutes
 
 ---
